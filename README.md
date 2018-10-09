@@ -1,6 +1,6 @@
 # Leetcode solutions in Java
 
-Some leetcode solutions of LI.
+Some leetcode solutions by grandpa.
 
 #### [Array](problems/src/array)
 
